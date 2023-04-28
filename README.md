@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white
+  <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />                  | 
 </p>
 
 
